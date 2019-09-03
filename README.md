@@ -9,7 +9,7 @@
 Listing complet et aussi détaillé que possible sur les besoins en matières premières,
 transformation, transport, utilisation
 
-### [Financière](financier.md)
+### [Financière](finance.md)
 
 Comparatif et estimations de couts, rentrées et potentiel économique. Cela concerne aussi
 bien les propriétaires individuels de trotinette électrique que les entreprises de location
