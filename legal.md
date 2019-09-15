@@ -82,7 +82,19 @@ au remplacement du matériel cassé et a l'amende lors des procédures judiciair
 
 Exemple de dégradation [de la peinture sur le QR-Code](https://www.20minutes.fr/faits_divers/2536951-20190610-lyon-anti-trottinettes-bloquent-engins-coup-peinture)
 
+## Responsabilié des trottinettes hors d'usage
 
+Lorsqu'un matériel est endommagé, il reste sous la responsabilité de son propriétaire.
+
+Ainsi, lorsqu'une trottinette électrique est inutilisable, elle devient un déchet [L541-1-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000023248306)
+> Déchet : toute substance ou tout objet, ou plus généralement tout bien meuble, dont le détenteur se défait ou dont il a l'intention ou l'obligation de se défaire
+
+
+Selon l'article [L541-1-3](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006074220&idArticle=LEGIARTI000023248306)
+du code de l'environnement, il est du ressort du propriétaire de prendre les mesures de traitement nécessaires, à la demande de la mairie (police municipale):
+> I.-Lorsque des déchets sont abandonnés, déposés ou gérés contrairement aux prescriptions du présent chapitre et des règlements pris pour leur application, l'autorité titulaire du pouvoir de police compétente avise le producteur ou détenteur de déchets des faits qui lui sont reprochés ainsi que des sanctions qu'il encourt et, après l'avoir informé de la possibilité de présenter ses observations, écrites ou orales, dans un délai de dix jours, le cas échéant assisté par un conseil ou représenté par un mandataire de son choix, peut le mettre en demeure d'effectuer les opérations nécessaires au respect de cette réglementation dans un délai déterminé.
+
+Ce traitement étant doublement qualifié par le retraitement des batteries au Lithium nécessitant un recyclage particulier.
 
 ## Liens additionnels
 
